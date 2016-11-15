@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidMelonBasicSample</string>
+
+    <string name="hello_world">Please turn on your headband \,don\'t charge</string>
+    <string name="action_settings">Settings</string>
+    <string name="tryconnect">Try Connect again</string>
+    <string name="analyze">Start Analyze</string>
+</resources>

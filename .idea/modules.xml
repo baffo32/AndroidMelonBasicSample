@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidMelonBasicSample.iml" filepath="$PROJECT_DIR$/AndroidMelonBasicSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MelonPlatformKit-release/MelonPlatformKit-release.iml" filepath="$PROJECT_DIR$/MelonPlatformKit-release/MelonPlatformKit-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
